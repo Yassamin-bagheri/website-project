@@ -1,0 +1,14 @@
+.menu ul,
+li a {
+  list-style: none;
+  display: flex;
+  color: white;
+  padding: 12px 10px;
+  font-size: $font-size;
+}
+
+.nav li a {
+  color: $bg-black;
+  font-size: 16px;
+  text-decoration: none;
+}

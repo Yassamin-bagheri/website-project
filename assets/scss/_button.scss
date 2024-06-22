@@ -1,0 +1,28 @@
+.top {
+    z-index: 999;
+    position: fixed;
+    margin: 0px;
+    color: white;
+    -webkit-transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
+    position: fixed;
+    bottom: 115px;
+    right: 25px;
+    z-index: 999;
+    font-size: 14px;
+    background: black;
+    border: 2px solid #0f0f0f;
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    line-height: 34px;
+  }
+  .fa {
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
